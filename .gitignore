@@ -1,0 +1,26 @@
+# Build output
+build/
+*.o
+*.obj
+*.exe
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and local evidence
+logs/
+evidence/
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+.DS_Store
