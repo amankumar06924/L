@@ -18,5 +18,3 @@ real-time detection on Windows.
 
 - C++20
 - Windows APIs
-- MinGW-w64 / GNU Make
-- Git
